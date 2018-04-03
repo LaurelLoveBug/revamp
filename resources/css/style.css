@@ -383,17 +383,17 @@ textarea {
 
 .portfolio {
 	width: calc(100% / 1);
-	height: calc((100vh - 90px) / 3);
+	height: calc((100vh - 79px) / 3);
 	margin: 0;
 }
 
 .portfolio a {
-	height: calc((100vh - 90px) / 3);
+	height: calc((100vh - 79px) / 3);
 	font-size: 2rem;
 }
 
 .portfolio a.galvanish {
-	margin-top: calc((-100vh + 90px) / 3);
+	margin-top: calc((-100vh + 79px) / 3);
 }
 
 /*Slider Styles*/
@@ -500,16 +500,16 @@ textarea {
 	
 	.portfolio {
 		width: calc(100% / 1);
-		height: calc((100vh - 90px) / 3);
+		height: calc((100vh - 79px) / 3);
 		margin: 0;
 	}
 
 	.portfolio a {
-		height: calc((100vh - 90px) / 3);
+		height: calc((100vh - 79px) / 3);
 	}
 
 	.portfolio a.galvanish {
-		margin-top: calc((-100vh + 90px) / 3);
+		margin-top: calc((-100vh + 79px) / 3);
 	}
 	
 	footer .maxw {
@@ -569,16 +569,16 @@ textarea {
 	
 	.portfolio {
 		width: calc(100% / 3);
-		height: calc((100vh - 90px) / 1);
+		height: calc((100vh - 79px) / 1);
 		margin: 0;
 	}
 
 	.portfolio a {
-		height: calc((100vh - 90px) / 1);
+		height: calc((100vh - 79px) / 1);
 	}
 
 	.portfolio a.galvanish {
-		margin-top: calc((-100vh + 90px) / 1);
+		margin-top: calc((-100vh + 79px) / 1);
 	}
 	
 	/*Gallery Styles*/
